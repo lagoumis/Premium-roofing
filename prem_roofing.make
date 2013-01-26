@@ -35,6 +35,9 @@ projects[pathauto][subdir] = "contrib"
 projects[token][version] = "1.4"
 projects[token][subdir] = "contrib"
 
+projects[views][version] = "3.5"
+projects[views][subdir] = "contrib"
+
 projects[webform][version] = "4.0-alpha4"
 projects[webform][subdir] = "contrib"
 
