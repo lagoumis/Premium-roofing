@@ -8,10 +8,10 @@ projects[backup_migrate][subdir] = "contrib"
 projects[boxes][version] = "1.0"
 projects[boxes][subdir] = "contrib"
 
-projects[context][version] = "3.0-beta2"
+projects[context][version] = "3.0-beta6"
 projects[context][subdir] = "contrib"
 
-projects[ctools][version] = "1.0"
+projects[ctools][version] = "1.2"
 projects[ctools][subdir] = "contrib"
 
 projects[date][version] = "2.5"
@@ -32,11 +32,14 @@ projects[panels][subdir] = "contrib"
 projects[pathauto][version] = "1.1"
 projects[pathauto][subdir] = "contrib"
 
-projects[token][version] = "1.1"
+projects[token][version] = "1.4"
 projects[token][subdir] = "contrib"
 
 projects[webform][version] = "4.0-alpha4"
 projects[webform][subdir] = "contrib"
+
+projects[wysiwyg][version] = "2.2"
+projects[wysiwyg][subdir] = "contrib"
 
 
 ; Themes
@@ -45,3 +48,9 @@ projects[omega][subdir] = "contrib"
 
 projects[rubik][version] = "4.0-beta8"
 projects[rubik][subdir] = "contrib"
+
+
+; Libraries
+# libraries[ckeditor][type] = "libraries"
+# libraries[ckeditor][download][type] = "file"
+# libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.tar.gz"
