@@ -23,6 +23,12 @@ projects[ds][subdir] = "contrib"
 projects[link][version] = "1.0"
 projects[link][subdir] = "contrib"
 
+projects[omega_tools][version] = "3.0"
+projects[omega_tools][subdir] = "contrib"
+
+projects[panels][version] = "3.3"
+projects[panels][subdir] = "contrib"
+
 projects[pathauto][version] = "1.1"
 projects[pathauto][subdir] = "contrib"
 
