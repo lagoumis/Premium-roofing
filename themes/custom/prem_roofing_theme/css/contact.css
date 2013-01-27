@@ -1,3 +1,5 @@
 .page-contact-us #page-title {
   display: block;
 }
+
+.page-contact-us #webform-component-contact-hours { display: block; }
