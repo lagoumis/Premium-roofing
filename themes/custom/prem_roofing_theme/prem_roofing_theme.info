@@ -47,7 +47,13 @@ css[typography.css][options][weight] = '10'
 css[forms.css][name] = 'Your custom form styles'
 css[forms.css][description] = 'This file holds all the form custom CSS of your theme.'
 css[forms.css][options][weight] = '10'
+css[home.css][name] = 'Your custom home styles'
+css[home.css][description] = 'This file holds all the home custom CSS of your theme.'
+css[home.css][options][weight] = '10'
 
+
+
+scripts[] = js/custom.js
 settings[alpha_grid] = 'alpha_default'
 settings[alpha_primary_alpha_default] = 'normal'
 settings[alpha_responsive] = '1'
