@@ -1,0 +1,21 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+
+#page-title {
+  display: none;
+}
+
+#zone-menu-wrapper {
+  display: none;
+}
+
+body, #page {
+  background: #212121;
+  height: 100%; width: 100%;
+}
+
+.account strong { color: #9ae200;}
+
+.front .block-boxes .block-title {
+  display: none;
+}

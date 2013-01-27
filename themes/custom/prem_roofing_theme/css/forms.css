@@ -1,0 +1,40 @@
+#page .webform-client-form .form-text, /* box style */
+#page .webform-client-form .email {
+  background: #2a2a2a;
+  border: solid 1px #373737;
+  height: 33px;
+  width: 100%;
+}
+
+#page .webform-client-form .webform-component-textfield label,
+#page .webform-client-form .webform-component-email label,
+#page .webform-client-form .webform-component-textarea label { display: none; }
+
+#page .webform-client-form textarea { /*message box style */
+  background: #2a2a2a;
+  border: solid 1px #373737;
+}
+
+#page .webform-client-form label { /*label*/
+  color: #a9a9a9;
+  font-weight: normal;
+}
+
+#page .form-radios label {
+  color: #747474;
+}
+
+#page .webform-client-form #edit-submit { /* submit button*/
+  background: #3a3a3a;
+  border: none;
+  border-radius: 0;  -moz-border-radius: 0; -webkit-border-radius: 0;
+  color: #8d8d8d;
+  font-size: 16px;
+  font-weight: normal;
+  padding: 8px 10px;
+  text-shadow: none;
+  text-transform: uppercase;
+  width: auto;
+}
+
+.grippie { display: none;}

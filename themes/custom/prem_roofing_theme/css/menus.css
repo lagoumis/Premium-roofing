@@ -1,0 +1,46 @@
+/* .........top banner area section ............*/
+#page .menu { /*whole main menu*/
+  margin-top: -155px;
+  margin-left: 20px;
+  position: relative; z-index: 2;
+}
+
+#page .menu li { /*items in the main menu */
+  float: left;
+  list-style: none;
+  padding: 0 35px 0 35px;
+}
+
+#page .menu li + li {
+  padding-right: 280px;
+}
+
+#page .menu li + li + li,
+#page .menu li + li + li + li {
+  padding-right: 35px;
+}
+
+.logo-img {
+  display: block;
+  float: none;
+  margin: 0 auto;
+  position: relative; z-index: 4;
+  width: 241px;
+}
+
+.view-banner-image {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  position: relative; z-index: 0;
+}
+
+#page .menu a {
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+#page .menu a.active {
+  color: #f07e1e;
+}
+
