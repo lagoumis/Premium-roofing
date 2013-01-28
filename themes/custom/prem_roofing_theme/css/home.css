@@ -1,17 +1,15 @@
-.front .block-boxes h2 {
-  font-size: 24px;
-  line-height: 24px;
-  font-weight: normal;
+.front #section-content .block-boxes h3 {
   height: 50px;
   margin-bottom: 8px;
 }
 
 .front #block-system-main {
-  width: 700px;
+  width: 640px;
+  margin-bottom: 20px;
 }
 
 .front #region-postscript-fourth {
-  margin-top: -114px;
+  margin-top: -154px;
 }
 
 .front .block-boxes img {
@@ -21,8 +19,49 @@
 .front #block-system-main h2 {
   color: #f07e1e;
   font-weight: normal;
-  font-size: 24px;
+  font-size: 20px;
+  font-family: sans-serif;
   letter-spacing: 0.01em;
-  margin-bottom: 0;
+  line-height: 24px;
+  margin-bottom: 5px;
   text-transform: none;
+}
+
+.front #section-content .block-boxes {
+  width: 200px;
+  float: left;
+}
+
+.front .block-home-box-two,
+.front .block-home-box-one {
+  padding-right: 20px;
+}
+
+.front #block-system-main .field-name-title {
+  display: none;
+}
+
+.front #block-system-main .field-name-body img {
+  float: left;
+  padding-right: 20px;
+}
+
+.front #block-system-main .field-name-body {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a.home-link,
+a.home-link:visited {
+  background: #3a3a3a;
+  color: #8d8d8d;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: normal;
+  padding: 6px 14px 8px 14px;
+}
+
+.home-link a:hover {
+  color: #a8a8a8;
 }

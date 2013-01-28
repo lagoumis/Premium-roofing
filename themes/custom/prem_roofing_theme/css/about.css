@@ -1,11 +1,6 @@
 /* type*/
 .view-employee-listing .views-field-title span {
-  color: #fff;
-  font-size: 24px;
   float: left;
-  line-height: 24px;
-  font-weight: normal;
-  text-transform: uppercase;
   width: 404px;
 }
 

@@ -26,11 +26,11 @@ body, #page {
   margin-top: 20px;
 }
 
-.boxes-box-content {
+#zone-footer-wrapper .boxes-box-content {
   color: #5e5e5e;
   float: right;
   font-size: 11px;
-  margin-bottom: 20px;
+  padding: 20px 0;
 }
 
 .boxes-box-content span {
@@ -38,4 +38,8 @@ body, #page {
   font-size: 15px;
   height: 20px;
   vertical-align: bottom;
+}
+
+.typekit-badge {
+  display: none !important;
 }
