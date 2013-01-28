@@ -50,7 +50,9 @@ css[forms.css][options][weight] = '10'
 css[home.css][name] = 'Your custom home styles'
 css[home.css][description] = 'This file holds all the home custom CSS of your theme.'
 css[home.css][options][weight] = '10'
-
+css[services.css][name] = 'Your custom services styles'
+css[services.css][description] = 'This file holds all the services custom CSS of your theme.'
+css[services.css][options][weight] = '10'
 
 
 scripts[] = js/custom.js
