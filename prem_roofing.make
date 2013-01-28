@@ -20,6 +20,9 @@ projects[date][subdir] = "contrib"
 projects[ds][version] = "1.5"
 projects[ds][subdir] = "contrib"
 
+projects[fontyourface][version] = "1.5"
+projects[fontyourface][subdir] = "contrib"
+
 projects[link][version] = "1.0"
 projects[link][subdir] = "contrib"
 
