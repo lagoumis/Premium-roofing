@@ -53,7 +53,9 @@ css[home.css][options][weight] = '10'
 css[services.css][name] = 'Your custom services styles'
 css[services.css][description] = 'This file holds all the services custom CSS of your theme.'
 css[services.css][options][weight] = '10'
-
+css[about.css][name] = 'Your about services styles'
+css[about.css][description] = 'This file holds all the about custom CSS of your theme.'
+css[about.css][options][weight] = '10'
 
 scripts[] = js/custom.js
 settings[alpha_grid] = 'alpha_default'
