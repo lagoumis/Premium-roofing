@@ -26,7 +26,7 @@ projects[fontyourface][subdir] = "contrib"
 projects[link][version] = "1.0"
 projects[link][subdir] = "contrib"
 
-projects[omega_tools][version] = "3.0"
+projects[omega_tools][version] = "3.0-rc4"
 projects[omega_tools][subdir] = "contrib"
 
 projects[panels][version] = "3.3"
