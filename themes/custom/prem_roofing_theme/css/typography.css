@@ -1,17 +1,10 @@
-h1 { 
+h2, h1 { 
   color: #fff; 
   font-size: 55px;
   text-transform: uppercase;
   letter-spacing: 0.01em;
   line-height: 50px;
-}
-
-h2 { 
-  color: #fff; 
-  font-size: 55px;
-  text-transform: uppercase;
-  letter-spacing: 0.01em;
-  line-height: 50px;
+  margin-bottom: 7px;
   
 }
 

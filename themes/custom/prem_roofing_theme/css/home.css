@@ -2,20 +2,27 @@
   font-size: 24px;
   line-height: 24px;
   font-weight: normal;
+  height: 50px;
   margin-bottom: 8px;
 }
 
 .front #block-system-main {
-  background: #1b1b1b;
-  margin-bottom: 15px;
-  padding: 20px 30px;
-  width: 640px;
+  width: 700px;
 }
 
 .front #region-postscript-fourth {
-  margin-top: -257px;
+  margin-top: -114px;
 }
 
 .front .block-boxes img {
   margin-bottom: 15px;
+}
+
+.front #block-system-main h2 {
+  color: #f07e1e;
+  font-weight: normal;
+  font-size: 24px;
+  letter-spacing: 0.01em;
+  margin-bottom: 0;
+  text-transform: none;
 }

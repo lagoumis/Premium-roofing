@@ -19,3 +19,23 @@ body, #page {
 .front .block-boxes .block-title {
   display: none;
 }
+
+/*..........footer..............*/
+#zone-footer-wrapper {
+  background: #1b1b1b;
+  margin-top: 20px;
+}
+
+.boxes-box-content {
+  color: #5e5e5e;
+  float: right;
+  font-size: 11px;
+  margin-bottom: 20px;
+}
+
+.boxes-box-content span {
+  display: inline-block;
+  font-size: 15px;
+  height: 20px;
+  vertical-align: bottom;
+}
