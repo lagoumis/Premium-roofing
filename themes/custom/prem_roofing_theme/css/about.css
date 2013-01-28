@@ -1,0 +1,37 @@
+/* type*/
+.view-employee-listing .views-field-title span {
+  color: #fff;
+  font-size: 24px;
+  float: left;
+  line-height: 24px;
+  font-weight: normal;
+  text-transform: uppercase;
+  width: 404px;
+}
+
+.view-employee-listing .views-field-field-employee-extra-info {
+  color: #f07e1e;
+  float: left;
+  margin-bottom: 10px;
+  width: 404px;
+}
+
+.view-employee-listing .views-field-field-employee-image {
+  float: left;
+  padding-right: 30px;
+}
+
+.view-employee-listing .views-field-body {
+  float: left;
+  width: 404px;
+}
+
+.view-employee-listing .views-row {
+  clear: left;
+  padding-bottom: 40px;
+  overflow: hidden;
+}
+
+.page-node-2 #block-system-main {
+  margin-bottom: 20px;
+}
