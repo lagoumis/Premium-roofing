@@ -15,7 +15,8 @@
 #section-content .block-webform h2,
 .front #section-content .block-boxes h2,
 #section-content .view-services-listing h2,
-.view-employee-listing .views-field-title span {
+.view-employee-listing .views-field-title span,
+.view-services-listing h2 a  {
   color: #fff;
   font-size: 20px;
   font-family: sans-serif;
@@ -23,6 +24,7 @@
   line-height: 24px;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 
@@ -35,6 +37,12 @@
 #section-content label {
   color: #b7b7b7;
   font-weight: normal;
+}
+
+.small-orange,
+.small-orange a {
+  color: #f07e1e;
+  text-decoration: none;
 }
 
 /*profile pages*/
