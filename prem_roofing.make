@@ -5,7 +5,7 @@ api = 2
 projects[backup_migrate][version] = "2.4"
 projects[backup_migrate][subdir] = "contrib"
 
-projects[boxes][version] = "1.0"
+projects[boxes][version] = "1.1"
 projects[boxes][subdir] = "contrib"
 
 projects[context][version] = "3.0-beta6"
@@ -14,16 +14,16 @@ projects[context][subdir] = "contrib"
 projects[ctools][version] = "1.2"
 projects[ctools][subdir] = "contrib"
 
-projects[date][version] = "2.5"
+projects[date][version] = "2.6"
 projects[date][subdir] = "contrib"
 
-projects[ds][version] = "1.5"
+projects[ds][version] = "1.6"
 projects[ds][subdir] = "contrib"
 
 projects[fontyourface][version] = "2.6"
 projects[fontyourface][subdir] = "contrib"
 
-projects[link][version] = "1.0"
+projects[link][version] = "1.2"
 projects[link][subdir] = "contrib"
 
 projects[omega_tools][version] = "3.0-rc4"
@@ -41,7 +41,7 @@ projects[token][subdir] = "contrib"
 projects[views][version] = "3.5"
 projects[views][subdir] = "contrib"
 
-projects[webform][version] = "4.0-alpha4"
+projects[webform][version] = "4.0-alpha6"
 projects[webform][subdir] = "contrib"
 
 projects[wysiwyg][version] = "2.2"
