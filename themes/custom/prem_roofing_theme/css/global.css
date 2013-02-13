@@ -43,3 +43,119 @@ body, #page {
 .typekit-badge {
   display: none !important;
 }
+
+#section-content {
+  min-height: 400px;
+}
+
+/*............colour picker.............*/
+.square {
+  display: block;
+  float: left;
+  margin: 0px 2px;
+  width: 35px; height: 35px;
+}
+
+.tab {
+  display: inline-block;
+  overflow: hidden;
+  padding: 5px 3px;
+}
+
+/*beiges*/
+#beiges {
+  background: #fffdf8;
+}
+
+#off-white { background:#eeeddd; cursor: pointer;}
+#smooth-cream { background:#f1e1b1; cursor: pointer;}
+#gull-grey { background:#c3c3b2; cursor: pointer;}
+#birch-grey { background:#b8b09b; cursor: pointer;}
+#beige { background:#9f8e70; cursor: pointer;}
+#brushwood { background:#827561; cursor: pointer;}
+#mocha { background:#56442d; cursor: pointer;}
+
+/*oranges*/
+#oranges {
+  background: #f5d9c3;
+}
+
+#pale-terracotta { background:#cb986f; cursor: pointer;}
+#arizona { background:#bd6a43; cursor: pointer;}
+#amber { background:#b96a42; cursor: pointer;}
+#peach { background:#a86848; cursor: pointer;}
+#riverclay { background:#a44a28; cursor: pointer;}
+#terracotta { background:#9c421e; cursor: pointer;}
+#desert-clay { background:#7d381a; cursor: pointer;}
+
+/*reds*/
+#reds {
+  background: #e9c4c0;
+}
+
+#homestead { background: #873227; cursor: pointer;}
+#tuscan-red { background: #802916; cursor: pointer;}
+#autumn {background: #791f13; cursor: pointer;}
+#rich-red {background: #57180d; cursor: pointer;}
+#burgundy {background: #50160f; cursor: pointer;} 
+#rust {background: #47100f; cursor: pointer;}
+#deep-burgundy {background: #23080c; cursor: pointer;}
+
+/*greens*/
+#greens {
+  background: #ced4ca;
+}
+
+#light-rivergum {background: #7a8a70; cursor: pointer;}
+#mist-green {background: #6a714f; cursor: pointer;}
+#cobble {background: #4e504a; cursor: pointer;}
+#rivergum {background: #47533d; cursor: pointer;}
+#gum-tree {background: #424e3e; cursor: pointer;}
+#brunswick-green {background: #11230f; cursor: pointer;}
+
+/*blues*/
+#blues {
+  background: #c0cbd5;
+}
+
+#mountain-blue {background: #1e2d3b; cursor: pointer;}
+#bluestone {background: #161720; cursor: pointer;}
+
+/*greys*/
+#greys {
+  background: #c2c2c2;
+}
+
+#ghost-gum {background: #73726e; cursor: pointer;}
+#bendigo-grey {background: #47484c; cursor: pointer;}
+#slate-grey {background: #383735; cursor: pointer;}
+#charcoal {background: #262324; cursor: pointer;} 
+#dark-charcoal {background: #141213; cursor: pointer;}
+#black {background: #0a0203; cursor: pointer;}
+
+/*browns*/
+#browns {
+  background: #b4a79b;
+}
+
+#smokebush {background: #866f5a; cursor: pointer;}
+#valley-brown {background: #7d4726; cursor: pointer;}
+#homebush {background: #4c311e; cursor: pointer;}
+#tan {background: #4c200f; cursor: pointer;}
+#chocolate {background: #2e120a; cursor: pointer;}
+#dark-brown {background: #1e0e07; cursor: pointer;}
+#manganese {background: #000000; cursor: pointer;}
+
+/*..........main image.............*/
+.image { display: none; }
+
+#roof-brunswick-green { display: block; }
+
+#main-image {
+  float: left;
+  padding-right: 40px;
+}
+
+#boxes-box-colour_picker p {
+  margin-bottom: 0;
+}

@@ -30,7 +30,8 @@
   color: #747474;
 }
 
-#page .webform-client-form #edit-submit { /* submit button*/
+#page .webform-client-form #edit-submit,
+.links a { /* submit button*/
   background: #3a3a3a;
   border: none;
   border-radius: 0;  -moz-border-radius: 0; -webkit-border-radius: 0;
@@ -40,6 +41,7 @@
   padding: 8px 10px;
   text-shadow: none;
   text-transform: uppercase;
+  text-decoration: none;
   width: auto;
 }
 
@@ -50,3 +52,5 @@
 .webform-component-radios .form-radio {
   margin-bottom: 2px;
 }
+
+

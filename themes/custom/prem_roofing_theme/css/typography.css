@@ -16,7 +16,9 @@
 .front #section-content .block-boxes h2,
 #section-content .view-services-listing h2,
 .view-employee-listing .views-field-title span,
-.view-services-listing h2 a  {
+.view-services-listing h2 a,
+#section-content #color-title,
+#boxes-box-colour_picker h2  {
   color: #fff;
   font-size: 20px;
   font-family: sans-serif;
@@ -45,6 +47,10 @@
   text-decoration: none;
 }
 
+#boxes-box-colour_picker p {
+  color: #fff;
+}
+
 /*profile pages*/
 #section-content h3 {
   color: #fff;
@@ -59,3 +65,4 @@
 #section-content .user-profile-item {
   color: #818181;
 }
+
