@@ -31,7 +31,9 @@
 }
 
 #page .webform-client-form #edit-submit,
-.links a { /* submit button*/
+.links a,
+.button,
+#page .home-link, #page .home-link:visited  { /* submit button*/
   background: #3a3a3a;
   border: none;
   border-radius: 0;  -moz-border-radius: 0; -webkit-border-radius: 0;

@@ -146,16 +146,100 @@ body, #page {
 #dark-brown {background: #1e0e07; cursor: pointer;}
 #manganese {background: #000000; cursor: pointer;}
 
+/*......colour picker intro box ..................*/
+#page #block-boxes-colour-picker-intro-box { 
+  background: #313131 url(../images/colour_picker_intro.png) no-repeat bottom left;
+  margin-top: 20px;
+  padding: 20px;
+  width: auto;
+}
+
+#page .button {
+  background: #525252;
+  color: #ededed;
+  float: right;
+  text-decoration: none;
+}
+
+#boxes-box-colour_picker_intro_box p {
+  clear: right;
+  margin: 0;
+  margin-bottom: 40px;
+  margin: 0 5px 40px 35px;
+}
+
+#page #color-picker-head {
+  height: auto;
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+#page #color-picker-head-2 span {
+  font-size: 44px;
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+#page #color-picker-head-2 {
+  height: auto;
+}
+
+#page #color-picker-head-3 {
+  float: right;
+  height: auto;
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+#page #color-picker-head-2 #two,
+#page #color-picker-head-2 #three,
+#page #color-picker-head-2 #four,
+#page #color-picker-head-2 #five,
+#page #color-picker-head-2 #six {
+  margin-left: -8px;
+}
+
+#page #color-picker-head-2 #one {
+  color: #a24b27;
+}
+
+#page #color-picker-head-2 #two {
+  color: #bd5f38;
+}
+
+#page #color-picker-head-2 #three {
+  color: #d18457;
+}
+
+#page #color-picker-head-2 #four {
+  color: #d9b560;
+}
+
+#page #color-picker-head-2 #five {
+  color: #f2ce78;
+}
+
+#page #color-picker-head-2 #six {
+  color: #ceca7a;
+}
+
 /*..........main image.............*/
 .image { display: none; }
 
 #roof-brunswick-green { display: block; }
 
 #main-image {
-  float: left;
-  padding-right: 40px;
+  background: #272727;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 #boxes-box-colour_picker p {
   margin-bottom: 0;
+  margin-top: -5px;
+}
+
+#section-content #color-title {
+  margin: 0;
+  margin-top: 20px;
 }

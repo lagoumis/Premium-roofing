@@ -29,8 +29,12 @@
   text-decoration: none;
 }
 
+#section-content .content {
+  color: white;
+}
 
-#section-content p {
+#section-content p,
+.page-contact-us #block-boxes-service-map li {
   color:#818181;
   font-size: 12px;
   line-height: 21px;
