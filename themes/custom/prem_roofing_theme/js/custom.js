@@ -342,5 +342,5 @@ jQuery(document).ready(function($) { /*grey color tab*/
       $("#color-title").text("manganese");
     }); 
 });
-
+;
 

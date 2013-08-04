@@ -1,13 +1,15 @@
 /*......giant font......*/
 #section-content h2, #section-content h1 {
   color: #fff; 
-  font-size: 55px;
+  font-size: 47px;
+  font-family: "Roboto";
   text-transform: uppercase;
   letter-spacing: 0.01em;
+  font-weight: normal;
 }
 
 #section-content h2, #section-content h1 {
-  line-height: 50px;
+  line-height: 47px;
   margin-bottom: 13px;
 }
 
