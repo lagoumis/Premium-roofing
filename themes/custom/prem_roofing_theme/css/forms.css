@@ -33,7 +33,8 @@
 #page .webform-client-form #edit-submit,
 .links a,
 .button,
-#page .home-link, #page .home-link:visited  { /* submit button*/
+#page .home-link, 
+#page .home-link:visited  { /* submit button*/
   background: #3a3a3a;
   border: none;
   border-radius: 0;  -moz-border-radius: 0; -webkit-border-radius: 0;
@@ -47,6 +48,12 @@
   width: auto;
 }
 
+#page .webform-client-form #edit-submit:hover,
+.button:hover,
+#page .home-link:hover {
+  background: #484848;
+}
+
 .grippie { display: none;}
 
 #webform-component-contact-hours { display: none; }
@@ -55,4 +62,11 @@
   margin-bottom: 2px;
 }
 
+input:focus,
+textarea:focus,
+select:focus {
+  -moz-box-shadow: #ff8a00 0 0 7px;
+  -webkit-box-shadow: #ff8a00 0 0 7px;
+  box-shadow: #ff8a00 0 0 7px;
+}
 

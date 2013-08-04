@@ -161,6 +161,10 @@ body, #page {
   text-decoration: none;
 }
 
+#page .button:hover {
+  background: #606060;
+}
+
 #boxes-box-colour_picker_intro_box p {
   clear: right;
   margin: 0;

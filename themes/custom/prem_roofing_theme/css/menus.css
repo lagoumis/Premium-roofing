@@ -40,7 +40,8 @@
   text-decoration: none;
 }
 
-#page .menu a.active {
+#page .menu a.active,
+#page .menu a:hover {
   color: #f07e1e;
 }
 
