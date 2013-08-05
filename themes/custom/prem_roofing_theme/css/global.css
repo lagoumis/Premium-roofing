@@ -247,3 +247,47 @@ body, #page {
   margin: 0;
   margin-top: 20px;
 }
+
+/** PAGINATON**/
+.item-list {
+  overflow: hidden;
+}
+
+.pager {
+  background: none;
+  border: none;
+  float: right;
+}
+
+#page ul.pager li {
+  background: #2f2f2f;
+  border: none;
+  font-size: 14px;
+  font-weight: 400;
+  margin-right: 5px;
+}
+
+#page .pager li a {
+  background: none;
+  font-size: 14px;
+  color: #575757;
+}
+
+.pager li.pager-previous,
+.pager li.pager-next,
+.pager li.pager-last,
+.pager li.pager-first  {
+  display: none;
+}
+
+#page .pager li.pager-current {
+  background: #F07E1E;
+  border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius:0;
+}
+
+.pager li.pager-next a,
+.pager li.pager-last a  {
+  color: #ba1318;
+}
