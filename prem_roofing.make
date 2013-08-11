@@ -58,6 +58,6 @@ projects[rubik][subdir] = "contrib"
 
 
 ; Libraries
-libraries[tinymce][type] = "libraries"
-libraries[tinymce][download][type] = "file"
-libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip"
+# libraries[ckeditor][type] = "libraries"
+# libraries[ckeditor][download][type] = "file"
+# libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.tar.gz"
