@@ -36,6 +36,7 @@
 }
 
 #section-content p,
+li,
 .page-contact-us #block-boxes-service-map li {
   color:#818181;
   font-size: 12px;
@@ -70,5 +71,18 @@
 
 #section-content .user-profile-item {
   color: #818181;
+}
+
+a:link {
+  color: #F07E1E;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.tabs a:link {
+  color: #333333;
 }
 
